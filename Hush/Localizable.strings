@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  Hush
+
+  Created by Justin Wells on 6/4/18.
+  Copyright © 2018 SynergyLabs. All rights reserved.
+*/
+
+//Welcome
+"welcomeMainLabel" = "Affordable Makeup & Skincare";
+"facebookSignup" = "Claim Free Gift with Facebook";
+"emailSignup" = "Sigup with email";
+"login" = "Already a member?";
+"claimWithEmail" = "Claim\nwith Email";
+"alreadyAMember" = "Already\na Member";
+
+//Feed
+"friends" = "Friends";
+"trending" = "Trending";
+"shareWithTheCommunity" = "Share with the community";
+"follow" = "Follow";
+"report" = "Report";
+"cancel" = "Cancel";
+"emptyFeed" = "No Posts";
+
+//Search
+"showMorePeople" = "Show More People";
+"showMoreProducts" = "Show More Products";
+"searchHush" = "Search Hush";
+"products" = "Products";
+"people" = "People";
+"loading" = "Loading";
+
+//Browse
+"eyelashes" = "Eyelashes";
+"primePlusSet" = "Prime+Set";
+"face" = "Face";
+"blushPlusHighlight" = "Blush+Highlight";
+"bronzerPlusContour" = "Bronzer+Contour";
+"brushes" = "Brushes";
+"faceCleansers" = "Face Cleansers";
+"tonersPlusSerums" = "Toners+Serums";
+"faceCreams" = "Face Creams";
+"faceMasks" = "Face Masks";
+"sheetMasks" = "Sheet Masks";
+"eyeCare" = "Eye Care";
+"bodyCare" = "Body Care";
+"hair" = "Hair";
+"nails" = "Nails";
+"accessories" = "Accessories";
+"justForYou" = "Just For You";
+"featured" = "Featured";
+"sale" = "Sale";
+"newArrivals" = "New Arrivals";
+"trendingNow" = "Trending Now";
+"bestSellers" = "Best Sellers";
+"lipColor" = "Lip Color";
+"lipCare" = "Lip Care";
+"eyeShadow" = "Eyeshadow";
+"eyes" = "Eyes";
+"eyebrows" = "Eyebrows";
+"addToCart" = "Add to Cart";
+"bought" = "Bought";
+"viewing" = "Viewing";
+"browseHeaderTitle" = "Spend $35.00 & Get a free gift";
+"browseHeaderSubTitle" = "Add $35.00 to spin the price wheel after checkout";
+"seePrizes" = "See Prizes";
+"viewCart" = "View Cart";
+"addToCart" = "Add To Cart";
+"returns" = "Returns";
+"details" = "Details";
+"returnPolicyText" = "We happily accept returns on unopened and unused products within 14 days of delivery.";
+
+//Notification
+"notificationsVCTitle" = "Notifications";
+
+//Account
+"account" = "Account";
+"support" = "Support";
+"loginOrSignup" = "Login or Sign up";
+"faq" = "FAQ";
+"customerSupport" = "Customer Support";
+"privacyPolicy" = "Privacy Policy";
+"endUserAgreement" = "End User Agreement";
+"leftAccountFooterText" = "Hush is made with";
+"rightAccountFooterText" = "In Downtown L.A.";
+"faqURL" = "https://www.shophush.com/faq";
+"privacyURL" = "https://www.shophush.com/legal/privacy";
+"endUserAgreementURL" = "https://www.shophush.com/legal/agreement";
+
+//Profile
+"likes" = "Likes";
+"followers" = "Followers";
+"following" = "Following";
+"noBio" = "No Bio";
+
+//Feature Unavailable
+"sorry" = "Sorry";
+"featureUnavailableMessage" = "This feature is unavailable";
+"ok" = "OK";
+
+//Positive Affirmations
+"positiveAffirmation1" = "You woke up flawless.";
+"positiveAffirmation2" = "Be as flawless as your makeup.";
+"positiveAffirmation3" = "Tell all your friends.";
+"positiveAffirmation4" = "Tap the images to zoom in.";
+"positiveAffirmation5" = "Makeup junkie.";
+"positiveAffirmation6" = "Peace, Love, & Lashes.";
+"positiveAffirmation7" = "Please rate the app!";
+"positiveAffirmation8" = "Better late than ugly.";
+"positiveAffirmation9" = "You're one of a kind!";
+"positiveAffirmation10" = "Hush loves you.";
